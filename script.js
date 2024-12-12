@@ -177,7 +177,7 @@ let propertyData = [];
        alert("la data fue esogida directamente");
      })
      .catch((error) => console.error("Error al cargar el archivo:", error));
-     alert("la data fue NO esogida directamente");
+     //alert("la data fue NO esogida directamente");
  });
 
  // Renderizar las tarjetas de propiedades
